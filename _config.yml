@@ -6,12 +6,12 @@ baseurl: ""
 nav:
   main:
     projects: "/projects"
-#    reading: "/reading"
+    dbf2019: "/dbf2019"
 
 # Bio settings
 name: "Jane Liu"
 description: "The home page of Jane Liu."
-thumbnail_path: "profile-photos/.jpg"
+thumbnail_path: "profile-photos/jane_jigsaw.jpg"
 
 # URLs
 contact_urls:
