@@ -1,5 +1,5 @@
 # Website settings
-url: "https://donfung.github.io/"
+url: "https://jane-ite.github.io/"
 baseurl: ""
 
 # Internal nav
@@ -9,24 +9,24 @@ nav:
 #    reading: "/reading"
 
 # Bio settings
-name: "Don Fung"
-description: "The home page of Don Fung."
-thumbnail_path: "profile-photos/donfung_profile.jpg"
+name: "Jane Liu"
+description: "The home page of Jane Liu."
+thumbnail_path: "profile-photos/.jpg"
 
 # URLs
 contact_urls:
   linkedin:
-    url: "https://www.linkedin.com/in/don-fung-3099b111a/"
+    url: ""
     label: "LinkedIn"
     icon: "linkedin-square"
   github:
-    url: "https://github.com/donfung"
+    url: ""
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "mailto:donovanfung@gmail.com"
+    url: ""
     label: "Email"
-    value: "donovanfung@gmail.com"
+    value: "liu.jane.ite@gmail.com"
     icon: "envelope-square"
 
 # Jekyll build settings
