@@ -1,0 +1,16 @@
+<!-- dbf2019-outline.html -->
+{% capture dbf2019_title_element %}{% if include.dbf2019_title_element %}{{ include.dbf2019_title_element }}{% else %}h2{% endif %}{% endcapture %}
+<div class="mxn2 clearfix mb2 py3{% unless include.exclude_divider %} border-bottom border-light-gray circle-line {% endunless %}">
+  <div class="col sm-col-4 px2 mb2">
+    <!-- <a href="{{ include.dbf2019.url }}" target="_blank"> -->
+      {% capture image_path %}dbf2019/{{ include.dbf2019.image }}{% endcapture %}
+      {% include image.html path=image_path alt=include.dbf2019.name %}
+    <!-- </a> --> 
+    
+  </div>
+  <div class="col sm-col-8 px2">
+    <a href="{{  }}" target="_blank" name="{{ include.dbf2019.name | downcase | replace:' ','-' | remove:',' }}"><{{ dbf2019_title_element }} class="mt0 mb0">{{ include.dbf2019.name }}</{{ dbf2019_title_element }}></a>
+    <a href="{{  }}" target="_blank" class="block h6 mb2">{{  }}</a>
+    <p class="left-align">{{ include.dbf2019.description }}</p>
+  </div>
+</div>
