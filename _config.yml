@@ -16,15 +16,15 @@ thumbnail_path: "profile-photos/jane_jigsaw.jpg"
 # URLs
 contact_urls:
   linkedin:
-    url: ""
+    url: "www.linkedin.com/in/jane-liu-20b763180"
     label: "LinkedIn"
     icon: "linkedin-square"
   github:
-    url: ""
+    url: "jane-ite.github.io"
     label: "GitHub"
     icon: "github-square"
   email:
-    url: ""
+    url: "liu.jane.ite@gmail.com"
     label: "Email"
     value: "liu.jane.ite@gmail.com"
     icon: "envelope-square"
@@ -41,7 +41,7 @@ timezone: 'America/Los_Angeles'
 markdown: kramdown
 
 disqus:
-  shortname: donfung
+  shortname: janeliu
 
 # Plugins (GitHub Pages only support a few)
 gems:
