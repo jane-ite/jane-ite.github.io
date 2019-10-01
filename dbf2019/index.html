@@ -6,6 +6,6 @@ include_header: dbf2019_header.html
 nav_item: dbf2019
 ---
 
-{% for project in site.data.projects %}
-  {% include dbf2019-outline.html project=project %}
+{% for dbf2019 in site.data.dbf2019 %}
+  {% include dbf2019-outline.html dbf2019=dbf2019 %}
 {% endfor %}
