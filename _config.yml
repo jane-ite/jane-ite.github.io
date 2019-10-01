@@ -24,7 +24,7 @@ contact_urls:
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "liu.jane.ite@gmail.com"
+    url: "mailto:liu.jane.ite@gmail.com"
     label: "Email"
     value: "liu.jane.ite@gmail.com"
     icon: "envelope-square"
