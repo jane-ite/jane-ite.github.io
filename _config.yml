@@ -16,11 +16,11 @@ thumbnail_path: "profile-photos/jane_jigsaw.jpg"
 # URLs
 contact_urls:
   linkedin:
-    url: "www.linkedin.com/in/jane-liu-20b763180"
+    url: "https://www.linkedin.com/in/jane-liu-20b763180/"
     label: "LinkedIn"
     icon: "linkedin-square"
   github:
-    url: "jane-ite.github.io"
+    url: "https://github.com/jane-ite/jane-ite.github.io"
     label: "GitHub"
     icon: "github-square"
   email:
