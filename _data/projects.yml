@@ -6,7 +6,7 @@
       Built using the resources at the <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace</a>, in collaboration with fellow UCLA student, Yusuke Tanaka, this "tank" drives on level and sloped asphalt, grass, and cement.
     </p>
   # this image (in assets) is placed to the left of the description
-  image: "yusuke_tank.png"
+  image: "yusuketank.png"
 
 - #name: "AlphaPilot 2019 (Team Deadlock)"
   #date: "2019"
