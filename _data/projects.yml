@@ -1,12 +1,11 @@
-- name: "Game of Drones 2019"
+- name: "1-person Treaded Vehicle"
   date: "2019"
   description: |
     <p>
-      <a href="https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/" target="_blank"> Game of Drones </a> is an autonomous drone racing competition hosted by Microsoft and NeurIPS that has recently begun (July 15th until Dec 7). 
-      &emsp;&emsp; I am currently working on this project.
+      Built using the resources at <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace </a>, in collaboration with a fellow UCLA student, Yusuke Tanaka, this "tank" drives on level and sloped asphalt, grass, and cement.
     </p>
 
-  image: "airsim.png"
+  image: "yusuke_tank.png"
 - name: "AlphaPilot 2019 (Team Deadlock)"
   date: "2019"
   description: |
