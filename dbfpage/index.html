@@ -1,0 +1,11 @@
+---
+layout: default
+title: "AIAA Design, Build, Fly at UCLA"
+header_title: Design, Build, Fly is an annual international RC aircraft design competition, with over one hundred competing schools. Teams design, build, and fly planes to specified requirements, completing assigned missions to gain points.
+include_header: dbfpage_header.html
+nav_item: dbfpage
+---
+
+{% for dbfpage in site.data.dbfpage %}
+  {% include dbfpage-outline.html dbf2019=dbf2019 %}
+{% endfor %}
