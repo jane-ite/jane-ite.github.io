@@ -1,6 +1,6 @@
 - name: "AIAA Design, Build, Fly"
   date: "2019"
-  description: |
+  description:
     <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an RC aircraft design competition. 
   image: "dbf2019.jpg"
 
