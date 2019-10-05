@@ -6,7 +6,7 @@ baseurl: ""
 nav:
   main:
     projects: "/projects"
-    dbf2019: "/dbf2019"
+    dbfpage: "/dbfpage"
 
 # Bio settings
 name: "Jane Liu"
