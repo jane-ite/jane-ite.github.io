@@ -3,7 +3,7 @@
   # all the html for the description
   description: 
     <p>
-      Built using the resources at the <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace</a>, in collaboration with fellow UCLA student, Yusuke Tanaka, this "tank" drives on level and sloped asphalt, grass, and cement.
+      Fabricated with additive manufacturing, using resources at the <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace</a>, in collaboration with fellow UCLA student, Yusuke Tanaka, this "tank" drives on level and sloped asphalt, grass, and cement.
     </p>
   # this image (in assets) is placed to the left of the description
   image: "yusuketank.png"
@@ -22,8 +22,8 @@
 
   image: "jigsaw_photoshoot.jpg"
   
-- #name: "AIAA Design, Build, Fly 2016"
-  #date: "2016"
+- #name: "SmartShoe Research"
+  #date: "2019"
   #description: |
   #  <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an RC aircraft design competition. I lead UCLA's DBF team in the design and sizing of the propulsion and actuator systems for our RC aircrafts. 
   #image: "dbf.jpg"
