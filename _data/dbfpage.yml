@@ -1,7 +1,7 @@
 - name: "AIAA Design, Build, Fly"
   date: "2019"
   description:
-    <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an RC aircraft design competition. 
+    <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an annual international RC aircraft design competition. Schools compete by designing and constructing RC planes to fulfill dimension and mission requirements set by AIAA.
   image: "dbf2019.jpg"
 
 - name: "2019: Dropping Mechanisms"
