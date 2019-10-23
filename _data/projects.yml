@@ -3,7 +3,7 @@
   # all the html for the description
   description: 
     <p>
-      Fabricated with additive manufacturing, using resources at the <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace</a>, in collaboration with fellow UCLA student, Yusuke Tanaka, this "tank" drives on level and sloped asphalt, grass, and cement.
+      Fabricated with additive manufacturing, using resources at the <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace</a>, this "tank" drives on level and sloped asphalt, grass, and cement. Built in collaboration with fellow UCLA student, Yusuke Tanaka.
     </p>
   # this image (in assets) is placed to the left of the description
   image: "yusuketank.png"
