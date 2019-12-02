@@ -22,14 +22,14 @@
 
   image: "jigsaw_photoshoot.jpg"
 
-  #- name: "DBF 2020 Competition Prototype 1: 'Spruce Bruce'"
-  #date: "2019"
-  #description:
-   # <p>
-   #   In preparation for the 2020 DBF Competition, this first prototype was made to validate initial sizing. Built with a tapered wing and hybrid fuselage of carbon fiber and wood.
-   # </p>
+  - name: "DBF 2020 Competition Prototype 1: 'Spruce Bruce'"
+  date: "2019"
+  description:
+   <p>
+     In preparation for the 2020 DBF Competition, this first prototype was made to validate initial sizing. Built with a tapered wing and hybrid fuselage of carbon fiber and wood.
+   </p>
 
-  #image: "sprucebruce_photoshoot.jpg"
+  image: "sprucebruce_photoshoot.jpg"
   
 - #name: "SmartShoe Research"
   #date: "2019"
