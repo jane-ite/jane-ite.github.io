@@ -8,28 +8,15 @@
   # this image (in assets) is placed to the left of the description
   image: "yusuketank.png"
 
-- name: "DBF 2019 Competition Plane: 'Jigsaw'"
-  date: "2019"
-  description:
+- name: "SmartShoe"
+  date: "2019-Present"
+  # all the html for the description
+  description: 
     <p>
-      This plane gained its name from its modular wing and 3D printed dropping mechanisms, which were assembled and dissembled utilized puzzle piece shaped connections. Jigsaw
+      Designed and prototyped shoe insole and circuit housing for wearable electronics. 
     </p>
-      <ul>
-        <li> Remotely deployed unfolding wings </li>
-        <li> Flew with a rotating radome</li>
-        <li> Dropped foam footballs in flight on command</li>
-    </ul>
-
-  image: "jigsaw_photoshoot.jpg"
-
-- name: "DBF 2020 Competition Prototype 1: 'Spruce Bruce'"
-  date: "2019"
-  description:
-   <p>
-     In preparation for the 2020 DBF Competition, this first prototype was made to validate initial sizing. Built with a tapered wing and hybrid fuselage of carbon fiber and wood.
-   </p>
-
-  image: "sprucebruce_photoshoot.jpg"
+  # this image (in assets) is placed to the left of the description
+  image: "explodedCasing.png"
   
 - #name: "SmartShoe"
   #date: "2019"
