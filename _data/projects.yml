@@ -3,23 +3,23 @@
   # all the html for the description
   description: 
     <p>
-      Fabricated with additive manufacturing, using resources at the <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace</a>, this "<a href="https://hackaday.io/project/168297-the-innovation-tank-3d-printed-treads" target="_blank"> tank</a>" drives on level and sloped asphalt, grass, and cement. Built in collaboration with fellow UCLA student, Yusuke Tanaka.
+      Fabricated with additive manufacturing, using resources at the <a href="https://samueli.ucla.edu/makerspace/" target="_blank"> UCLA Samueli Makerspace</a>, this "<a href="https://hackaday.io/project/168297-the-innovation-tank-3d-printed-treads" target="_blank">tank</a>" drives on level and sloped asphalt, grass, and cement. Built in collaboration with fellow UCLA student, Yusuke Tanaka.
     </p>
   # this image (in assets) is placed to the left of the description
   image: "yusuketank.png"
 
-- name: "SmartShoe"
-  date: "2019-Present"
+  - name: "SmartShoe"
+  date: "2019"
   # all the html for the description
   description: 
     <p>
-      Designed and prototyped shoe insole and circuit housing for wearable electronics. 
+      SmartShoe is a project created by UCLA's <a href="http://er.cs.ucla.edu/" target="_blank">eHealth Research Lab</a> to help stop the habit of toe-walking (walking with one's weight on the ball of the foot) in children by housing a real-time feedback system in a sole, which communicates with a phone app. Uses easily obtainable electronic components.
+    </p>
+    <p>  
+      Originally designed to fit into a commercial shoe sole originally meant for hiding keys with the ability to be cut down to size. Case printed out of PETG.
+    </p>
+    <p>
+      Now converted to a fully 3D printed housing, sole as well as casing. The sole is printed out of TPU and case out of PLA. Boasts of a smaller profile and higher reliability.
     </p>
   # this image (in assets) is placed to the left of the description
-  image: "explodedCasing.png"
-  
-- #name: "SmartShoe"
-  #date: "2019"
-  #description: |
-  #  <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an RC aircraft design competition. I lead UCLA's DBF team in the design and sizing of the propulsion and actuator systems for our RC aircrafts. 
-  #image: "dbf.jpg"
+  image: "smartshoev3explode.jpg"
